@@ -45,3 +45,12 @@ body {
 	height: 50px;
 	text-align: center;
 }
+a:link {
+     color: #F7949F;
+}
+a:visited {
+     color: ##DEBCB6;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
